@@ -25,4 +25,6 @@ tags:
   - RS
   - Benchmark
   - Conference
+image: images/papers/2024_CVPR_COBB.png
+ggid: 2xTlvV0AAAAJ:M05iB0D1s5AC
 ---

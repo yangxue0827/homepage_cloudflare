@@ -31,4 +31,6 @@ tags:
   - RS
   - Conference
   - First/Correspondence
+image: images/papers/2023_NeurIPS_H2RBox-v2.png
+ggid: 2xTlvV0AAAAJ:ns9cj8rnVeAC
 ---

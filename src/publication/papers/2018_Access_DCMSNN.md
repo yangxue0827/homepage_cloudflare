@@ -23,4 +23,6 @@ tags:
   - Detection
   - RS
   - Journal
+image: images/papers/2018_Access_DCMSNN.png
+ggid: 2xTlvV0AAAAJ:u5HHmVD_uO8C
 ---

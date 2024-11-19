@@ -27,4 +27,6 @@ tags:
   - RS
   - Conference
   - First/Correspondence
+image: images/papers/2020_ECCV_CSL.png
+ggid: 2xTlvV0AAAAJ:WF5omc3nYNoC
 ---

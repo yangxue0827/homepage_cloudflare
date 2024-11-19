@@ -27,4 +27,6 @@ tags:
   - RS
   - Weakly-supervised
   - Conference
+image: images/papers/2024_CVPR_PointOBB.png
+ggid: 2xTlvV0AAAAJ:70eg2SAEIzsC
 ---

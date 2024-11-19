@@ -17,4 +17,6 @@ award: Poster
 tags:
   - Detection
   - Conference
+image: images/papers/2019_BMVC_FSCascade.png
+ggid: 2xTlvV0AAAAJ:kNdYIx-mwKoC
 ---

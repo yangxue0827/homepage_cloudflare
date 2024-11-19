@@ -25,4 +25,6 @@ tags:
   - RS
   - Conference
   - First/Correspondence
+image: images/papers/2021_AAAI_R3Det.png
+ggid: 2xTlvV0AAAAJ:Tyk-4Ss8FVUC
 ---

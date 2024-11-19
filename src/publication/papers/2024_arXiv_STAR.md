@@ -37,4 +37,6 @@ tags:
   - Detection
   - Dataset
   - Preprint
+image: images/papers/2024_arXiv_STAR.gif
+ggid: 2xTlvV0AAAAJ:u_35RYKgDlwC
 ---

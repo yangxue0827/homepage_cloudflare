@@ -31,4 +31,6 @@ tags:
   - Weakly-supervised
   - Conference
   - First/Correspondence
+image: images/papers/2024_CVPR_Point2RBox.png
+ggid: 2xTlvV0AAAAJ:2P1L_qKh6hAC
 ---

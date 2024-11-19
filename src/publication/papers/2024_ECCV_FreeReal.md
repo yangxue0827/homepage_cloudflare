@@ -22,4 +22,6 @@ tags:
   - OCR
   - Detection
   - Conference
+image: images/papers/2024_ECCV_FreeReal.gif
+ggid: 2xTlvV0AAAAJ:yD5IFk8b50cC
 ---

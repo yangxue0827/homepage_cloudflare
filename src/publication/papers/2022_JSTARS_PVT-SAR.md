@@ -21,4 +21,6 @@ tags:
   - Detection
   - RS
   - Journal
+image: images/papers/2022_JSTARS_PVT-SAR.png
+ggid: 2xTlvV0AAAAJ:M3NEmzRMIkIC
 ---

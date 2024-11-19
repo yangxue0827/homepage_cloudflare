@@ -26,4 +26,6 @@ tags:
   - OCR
   - Recognition
   - Conference
+image: images/papers/2023_CVPR_SIGA.png
+ggid: 2xTlvV0AAAAJ:isC4tDSrTZIC
 ---

@@ -24,4 +24,6 @@ tags:
   - Detection
   - RS
   - Journal
+image: images/papers/2023_ISPRS_TIOE.jpeg
+ggid: 2xTlvV0AAAAJ:blknAaTinKkC
 ---

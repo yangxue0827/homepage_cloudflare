@@ -27,4 +27,6 @@ tags:
   - Survey
   - RS
   - Preprint
+image: images/papers/2024_arXiv_VLM_Geo_Survey.png
+ggid: 2xTlvV0AAAAJ:4OULZ7Gr8RgC
 ---

@@ -24,4 +24,6 @@ tags:
   - Detection
   - Weakly-supervised
   - Preprint
+image: images/papers/2023_arXiv_P2RBox.png
+ggid: 2xTlvV0AAAAJ:35N4QoGY0k4C
 ---

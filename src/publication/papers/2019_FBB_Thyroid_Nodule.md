@@ -22,4 +22,6 @@ tags:
   - Medical
   - Detection
   - Journal
+image: images/papers/2019_FBB_Thyroid_Nodule.png
+ggid: 2xTlvV0AAAAJ:LkGwnXOMwfcC
 ---

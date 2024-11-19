@@ -35,4 +35,6 @@ award: Poster
 tags:
   - VLM & MLLM & LLM
   - Preprint
+image: images/papers/2023_arXiv_InternGPT.png
+ggid: 2xTlvV0AAAAJ:RGFaLdJalmkC
 ---

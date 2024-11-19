@@ -31,4 +31,6 @@ tags:
   - RS
   - Conference
   - First/Correspondence
+image: images/papers/2019_ICCV_SCRDet.png
+ggid: 2xTlvV0AAAAJ:9yKSN-GCB0IC
 ---

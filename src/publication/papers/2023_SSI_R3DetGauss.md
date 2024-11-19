@@ -19,4 +19,5 @@ tags:
   - RS
   - Journal
   - First/Correspondence
+image: images/papers/2023_SSI_R3DetGauss.png
 ---

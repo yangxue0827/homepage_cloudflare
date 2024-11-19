@@ -23,4 +23,6 @@ tags:
   - Detection
   - RS
   - Journal
+image: images/papers/2022_TCSVT_RSDet++.jpg
+ggid: 2xTlvV0AAAAJ:4DMP91E08xMC
 ---

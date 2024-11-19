@@ -26,5 +26,6 @@ tags:
   - RS
   - Journal
   - First/Correspondence
-ggid: 2xTlvV0AAAAJ:-f6ydRqryjwC
+image: images/papers/2018_RS_R-DFPN.png
+ggid: 2xTlvV0AAAAJ:bEWYMUwI8FkC
 ---

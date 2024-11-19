@@ -21,4 +21,6 @@ tags:
   - Low level
   - AIGC
   - Conference
+image: images/papers/2021_ICCV_Parallel.jpeg
+ggid: 2xTlvV0AAAAJ:mVmsd5A6BfQC
 ---

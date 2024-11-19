@@ -29,4 +29,6 @@ tags:
   - RL
   - Conference
   - First/Correspondence
+image: images/papers/2024_CVPR_Auto_MC-Reward.png
+ggid: 2xTlvV0AAAAJ:ldfaerwXgEUC
 ---

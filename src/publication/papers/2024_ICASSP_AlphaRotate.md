@@ -27,4 +27,6 @@ tags:
   - Benchmark
   - Conference
   - First/Correspondence
+image: images/papers/2024_ICASSP_AlphaRotate.png
+ggid: 2xTlvV0AAAAJ:dhFuZR0502QC
 ---

@@ -24,4 +24,6 @@ tags:
   - RS
   - Conference
   - First/Correspondence
+image: images/papers/2018_IGARSS_Head.png
+ggid: 2xTlvV0AAAAJ:Y0pCki6q_DkC
 ---

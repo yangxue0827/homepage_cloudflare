@@ -12,7 +12,7 @@ const APThemeConfig = getThemeConfig({
   news: true,
   itemNum: 3,
   indexNewsTopK: 10,
-  indexWorksTopK: 5,
+  indexWorksTopK: 10,
   sidebarCard: {
     text: 'Xue Yang (杨学)',
     avatar: '/assets/yangxue.jpg',

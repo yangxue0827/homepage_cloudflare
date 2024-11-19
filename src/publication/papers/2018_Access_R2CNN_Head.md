@@ -25,4 +25,6 @@ tags:
   - RS
   - Journal
   - First/Correspondence
+image: images/papers/2018_Access_R2CNN_Head.png
+ggid: 2xTlvV0AAAAJ:UeHWp8X0CEIC
 ---

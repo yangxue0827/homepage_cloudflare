@@ -26,4 +26,6 @@ tags:
   - OCR
   - Recognition
   - Conference
+image: images/papers/2023_ICCV_CCD.png
+ggid: 2xTlvV0AAAAJ:GnPB-g6toBAC
 ---

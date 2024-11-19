@@ -37,4 +37,6 @@ tags:
   - RS
   - Journal
   - First/Correspondence
+image: images/papers/2022_TPAMI_Gaussian.png
+ggid: 2xTlvV0AAAAJ:vV6vV6tmYwMC
 ---

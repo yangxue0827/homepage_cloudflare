@@ -23,4 +23,6 @@ tags:
   - Detection
   - RS
   - Journal
+image: images/papers/2024_TGRS_ARS-DETR.png
+ggid: 2xTlvV0AAAAJ:BqipwSGYUEgC
 ---

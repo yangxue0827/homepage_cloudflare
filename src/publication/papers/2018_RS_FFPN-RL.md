@@ -24,4 +24,6 @@ tags:
   - RS
   - RL
   - Journal
+image: images/papers/2018_RS_FFPN-RL.png
+ggid: 2xTlvV0AAAAJ:IjCSPb-OGe4C
 ---

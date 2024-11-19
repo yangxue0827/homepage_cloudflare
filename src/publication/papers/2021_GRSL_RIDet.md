@@ -25,4 +25,6 @@ tags:
   - Detection
   - RS
   - Journal
+image: images/papers/2021_GRSL_RIDet.png
+ggid: 2xTlvV0AAAAJ:Wp0gIr-vW9MC
 ---

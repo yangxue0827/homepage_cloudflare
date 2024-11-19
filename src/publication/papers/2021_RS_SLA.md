@@ -23,4 +23,6 @@ tags:
   - Detection
   - RS
   - Journal
+image: images/papers/2021_RS_SLA.png
+ggid: 2xTlvV0AAAAJ:M3ejUd6NZC8C
 ---

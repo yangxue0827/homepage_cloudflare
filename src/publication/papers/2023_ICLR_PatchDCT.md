@@ -27,4 +27,6 @@ tags:
   - Detection
   - Segmentation
   - Conference
+image: images/papers/2023_ICLR_PatchDCT.png
+ggid: 2xTlvV0AAAAJ:YFjsv_pBGBYC
 ---

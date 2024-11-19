@@ -29,4 +29,6 @@ tags:
   - RS
   - Dataset
   - First/Correspondence
+image: images/papers/2022_TPAMI_SCRDet++.png
+ggid: 2xTlvV0AAAAJ:lSLTfruPkqcC
 ---

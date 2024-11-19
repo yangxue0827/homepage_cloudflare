@@ -30,4 +30,6 @@ tags:
   - Dataset
   - Journal
   - First/Correspondence
+image: images/papers/2022_IJCV_Classification.png
+ggid: 2xTlvV0AAAAJ:RHpTSmoSYBkC
 ---

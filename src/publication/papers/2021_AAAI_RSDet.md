@@ -27,4 +27,6 @@ tags:
   - OBB
   - RS
   - Conference
+image: images/papers/2021_AAAI_RSDet.png
+ggid: 2xTlvV0AAAAJ:7PzlFSSx8tAC
 ---

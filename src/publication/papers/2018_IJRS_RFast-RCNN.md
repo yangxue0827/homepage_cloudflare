@@ -21,4 +21,6 @@ tags:
   - Detection
   - RS
   - Journal
+image: images/papers/2018_IJRS_RFast-RCNN.png
+ggid: 2xTlvV0AAAAJ:YsMSGLbcyi4C
 ---

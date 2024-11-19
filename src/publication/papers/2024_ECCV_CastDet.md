@@ -26,4 +26,6 @@ tags:
   - RS
   - VLM & MLLM & LLM
   - Conference
+image: images/papers/2024_ECCV_CastDet.png
+ggid: 2xTlvV0AAAAJ:pqnbT2bcN3wC
 ---

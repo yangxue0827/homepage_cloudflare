@@ -34,4 +34,6 @@ tags:
   - Benchmark
   - Conference
   - First/Correspondence
+image: images/papers/2022_ACM-MM_MMRotate.png
+ggid: 2xTlvV0AAAAJ:_Qo2XoVZTnwC
 ---
