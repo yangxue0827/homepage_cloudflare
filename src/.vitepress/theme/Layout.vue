@@ -137,7 +137,7 @@ const tabs = {
   h4 a,
   h3 a,
   .index-content-news a {
-    @apply bg-transparent font-normal
+    @apply bg-transparent font-semibold
   }
   .index-content-news h3 {
     @apply leading-3

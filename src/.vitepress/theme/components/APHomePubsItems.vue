@@ -12,7 +12,7 @@ defineProps<{
 }>()
 const paperInfos = ref(null)
 const { theme } = useData()
-const offset = [1, 4]
+const offset = [0, 6]
 
 const { data, isFinished } = useAxios('https://raw.githubusercontent.com/yangxue0827/yangxue0827.github.io/google-scholar-stats/gs_data.json')
 watch(data, (newData) => {

@@ -8,7 +8,7 @@ import { useAxios } from '@vueuse/integrations/useAxios'
 
 const { theme } = useData()
 const paperInfos = ref(null)
-const offset = [1, 4]
+const offset = [0, 6]
 const displayMode = ref<'year' | 'tag'>('year');
 const selectedFilters = ref<string[]>(['ALL']);
 const groupedPosts = computed(() => {

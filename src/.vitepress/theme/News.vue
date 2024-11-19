@@ -27,7 +27,8 @@ const { frontmatter, theme } = useData()
             <n-thing content-indented>
                 <template #description>
                     <div class="text-lg mb-0 pb-0">
-                        {{ news.text }}
+                        <span> {{ news.text }}</span> 
+                        
                     </div>
                     <div v-for="item in news.links" class="pl-4 text-base">
                         <a v-if="item.text !== null" :href="item.link" class="no-underline">
