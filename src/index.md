@@ -57,24 +57,6 @@ Xue Yang won [SJTU Outstanding Doctoral Dissertation](https://www.gs.sjtu.edu.cn
 
 
 
-<script>
-    window.onload = function () {
-    // $(document).ready(function () {
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/yangxue0827/yangxue0827.github.io/'
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-
-            //var totalCitation = data['citedby']
-            //document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = numCitations;
-            });
-        });
-    }
-</script>
-
 ## :fire: Latest News
 
 <NewsCard />
