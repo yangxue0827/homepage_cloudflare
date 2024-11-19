@@ -1,1 +1,0 @@
-import{_ as e,z as n,I as i,V as o}from"./chunks/framework.B2E0Tgba.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"home":true,"layout":"cv"},"headers":[],"relativePath":"cv.md","filePath":"cv.md"}'),t={name:"cv.md"},a=o("",8),r=[a];function l(s,c,g,u,h,d){return n(),i("div",null,r)}const f=e(t,[["render",l]]);export{m as __pageData,f as default};
