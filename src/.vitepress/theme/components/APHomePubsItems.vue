@@ -33,7 +33,7 @@ watch(data, (newData) => {
                 <Tag 
                         :bordered="false"
                         :round="false"
-                        class="text-white bg-blue-500 text-xs font-semibold rounded-r-md hover:bg-blue-600/80 hover:text-black"
+                        class="text-white bg-blue-500 text-xs font-semibold rounded-r-md hover:bg-blue-600/80 hover:text-black z-20"
                 >
                         {{ mdContent.frontmatter.short_name }}
                 </Tag>
@@ -41,7 +41,7 @@ watch(data, (newData) => {
                     v-if="mdContent.frontmatter.award !== 'Poster'" 
                     :bordered="false"
                     :round="false"
-                    class="text-white bg-red-600/75 text-xs font-semibold rounded-r-md hover:bg-lime-600/50 hover:text-black"
+                    class="text-white bg-red-600/75 text-xs font-semibold rounded-r-md hover:bg-lime-600/50 hover:text-black z-20"
                 >
                     {{ mdContent.frontmatter.award }}
                 </Tag>
