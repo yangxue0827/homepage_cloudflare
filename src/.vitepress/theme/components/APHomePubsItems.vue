@@ -1,15 +1,26 @@
 <script setup lang="ts">
+import { watch, ref } from 'vue';
 import { useData } from 'vitepress';
 import { withBase } from 'vitepress';
 import { PostPage } from '@/theme/data/pubs.data'
 import { NBadge, NTag, NButton } from 'naive-ui';
 import Tag from './utils/Tag.vue';
 import Image from './utils/Image.vue';
+import { useAxios } from '@vueuse/integrations/useAxios'
 defineProps<{
     mdContent: PostPage
 }>()
+const paperInfos = ref(null)
 const { theme } = useData()
 const offset = [1, 4]
+
+const { data, isFinished } = useAxios('https://raw.githubusercontent.com/yangxue0827/yangxue0827.github.io/google-scholar-stats/gs_data.json')
+watch(data, (newData) => {
+    if (newData){
+        paperInfos.value = newData.publications
+    }
+})
+
 </script>
 
 <template>
@@ -96,6 +107,20 @@ const offset = [1, 4]
                         class="hover:text-black hover:font-semibold"
                     >
                         {{ item.text }}
+                    </n-button>
+                </span>
+                <span v-if="mdContent.frontmatter.ggid">
+                    <n-spin v-if="paperInfos === null" :size="18"  />
+                    <n-button
+                        v-else 
+                        tag="a" 
+                        href="" 
+                        type="info" 
+                        size="tiny" 
+                        ghost
+                        class="hover:text-black hover:font-semibold"
+                    >
+                    Citation: {{ paperInfos[mdContent.frontmatter.ggid].num_citations }}
                     </n-button>
                 </span>
             </div>
