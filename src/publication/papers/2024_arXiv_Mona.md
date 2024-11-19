@@ -25,4 +25,6 @@ tags:
   - OBB
   - Preprint
   - First/Correspondence
+image: images/papers/2024_arXiv_Mona.gif
+ggid: 2xTlvV0AAAAJ:D03iK_w7-QYC
 ---

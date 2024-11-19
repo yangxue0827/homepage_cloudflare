@@ -22,7 +22,7 @@ attachments:
     link: https://github.com/yuyi1005/whollywood-jittor
   - text: Zhihu
     link: https://zhuanlan.zhihu.com/p/620884206
-date: 2024-09-22
+date: 2023-09-22
 award: Poster
 tags:
   - Detection

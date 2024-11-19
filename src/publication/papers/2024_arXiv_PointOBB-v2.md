@@ -25,5 +25,6 @@ tags:
   - RS
   - Preprint
   - First/Correspondence
-image: images/papers/pointobbv2.png
+image: images/papers/2024_arXiv_PointOBB-v2.png
+ggid: 2xTlvV0AAAAJ:f2IySw72cVMC
 ---

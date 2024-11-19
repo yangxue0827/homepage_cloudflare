@@ -28,5 +28,6 @@ tags:
   - RS
   - VLM & MLLM & LLM
   - Preprint
-ggid: 2xTlvV0AAAAJ:-f6ydRqryjwC
+image: images/papers/2024_arXiv_CastDet.png
+ggid: 2xTlvV0AAAAJ:bFI3QPDXJZMC
 ---

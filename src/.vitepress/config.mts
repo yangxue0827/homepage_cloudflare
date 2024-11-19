@@ -11,8 +11,8 @@ const APThemeConfig = getThemeConfig({
   author: 'Xue Yang',
   news: true,
   itemNum: 3,
-  indexNewsTopK: 3,
-  indexWorksTopK: 5,
+  indexNewsTopK: 10,
+  indexWorksTopK: 10,
   sidebarCard: {
     text: 'Xue Yang (杨学)',
     avatar: '/assets/yangxue.jpg',

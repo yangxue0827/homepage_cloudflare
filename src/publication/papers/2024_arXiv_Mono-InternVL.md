@@ -26,5 +26,6 @@ tags:
   - VLM & MLLM & LLM
   - Preprint
   - First/Correspondence
-image: images/papers/mono_internvl.png
+image: images/papers/2024_arXiv_Mono-InternVL.png
+ggid: 2xTlvV0AAAAJ:pyW8ca7W8N0C
 ---

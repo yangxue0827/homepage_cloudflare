@@ -27,4 +27,6 @@ tags:
   - UAV
   - Dataset
   - Conference
+image: images/papers/2024_NeurIPS_DHD.png
+ggid: 2xTlvV0AAAAJ:3s1wT3WcHBgC
 ---

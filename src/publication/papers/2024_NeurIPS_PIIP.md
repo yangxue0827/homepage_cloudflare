@@ -29,4 +29,6 @@ tags:
   - Segmentation
   - Conference
   - First/Correspondence
+image: images/papers/2024_NeurIPS_PIIP.png
+ggid: 2xTlvV0AAAAJ:zA6iFVUQeVQC
 ---

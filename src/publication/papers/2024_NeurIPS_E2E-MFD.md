@@ -27,4 +27,6 @@ tags:
   - MMF
   - Conference
   - First/Correspondence
+image: images/papers/2024_NeurIPS_E2E-MFD.png
+ggid: 2xTlvV0AAAAJ:HoB7MX3m0LUC
 ---
