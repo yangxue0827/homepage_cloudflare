@@ -1,0 +1,59 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/**
+background: #FFFFF  | 255 255 255
+foreground: #0F0F0F | 15 15 15
+primary:    #0F63EE | 15 99 238
+secondary:  #FF5F2E | 255 95 46
+            #FCBE32 | 252 190 50
+bgHover:    #AEE4FD | 174 228 253
+bgSelect:   #D0EEFE | 208 238 254
+**/
+
+:root {
+  font-family: 'Supreme', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+:root {
+  text-size-adjust: 100%; 
+  -webkit-tap-highlight-color: transparent; 
+  padding: 0px; 
+  margin: 0px; 
+  background-color: rgb(255, 255, 255); 
+  color: rgb(51, 54, 57); 
+  font-size: 16px; 
+  line-height: 1.6; 
+  transition: color 0.3s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    text-size-adjust: 100%; 
+    -webkit-tap-highlight-color: transparent; 
+    padding: 0px; 
+    margin: 0px; 
+    background-color: rgb(16, 16, 20); 
+    color: rgba(255, 255, 255, 0.9); 
+    font-size: 16px; 
+    line-height: 1.6; 
+    transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
+  }
+}
+
+:root {
+  .container {
+    a {
+      @apply no-underline text-[#1661AB]
+    }
+  }
+}
+
+
