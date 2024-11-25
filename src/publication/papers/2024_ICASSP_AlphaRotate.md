@@ -1,5 +1,5 @@
 ---
-title: AlphaRotate A Rotation Detection Benchmark using TensorFlow
+title: 【AlphaRotate】A Rotation Detection Benchmark using TensorFlow
 authors:
   - Xue Yang
   - Yue Zhou

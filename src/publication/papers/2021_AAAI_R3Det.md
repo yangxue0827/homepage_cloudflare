@@ -1,5 +1,5 @@
 ---
-title: R3Det Refined Single-Stage Detector with Feature Refinement for Rotating Object
+title: 【R3Det】Refined Single-Stage Detector with Feature Refinement for Rotating Object
 authors:
   - Xue Yang
   - Junchi Yan#

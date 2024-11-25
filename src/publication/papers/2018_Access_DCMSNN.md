@@ -1,5 +1,5 @@
 ---
-title: A Densely Connected End-to-End Neural Network for Multiscale and Multiscene SAR Ship Detection
+title: 【DCMSNN】A Densely Connected End-to-End Neural Network for Multiscale and Multiscene SAR Ship Detection
 authors:
   - Jiao Jiao
   - Yue Zhang

@@ -13,7 +13,7 @@ News:
           link: https://ccf.org.cn/cncc2024/schedule_d_4240
         - text: 端启未来：端到端自动驾驶技术新趋势
           link: https://ccf.org.cn/cncc2024/schedule_d_4128
-    - text: 荣获图像图形学会视觉大数据专委会(CSIG-BVD)颁发的“服务贡献奖”
+    - text: 荣获中国图象图形学学会视觉大数据专委会(CSIG-BVD)颁发的“服务贡献奖”
       date: 2024-10
       links:
         - text: “服务贡献奖”

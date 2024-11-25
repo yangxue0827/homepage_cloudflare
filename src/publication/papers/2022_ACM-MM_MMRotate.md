@@ -1,5 +1,5 @@
 ---
-title: MMRotate A Rotated Object Detection Benchmark using PyTorch
+title: 【MMRotate】A Rotated Object Detection Benchmark using PyTorch
 authors:
   - Yue Zhou*
   - Xue Yang*

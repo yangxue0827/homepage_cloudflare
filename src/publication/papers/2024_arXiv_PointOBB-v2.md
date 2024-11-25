@@ -1,5 +1,5 @@
 ---
-title: PointOBB-v2 Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection
+title: 【PointOBB-v2】Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection
 authors:
   - Botao Ren*
   - Xue Yang*

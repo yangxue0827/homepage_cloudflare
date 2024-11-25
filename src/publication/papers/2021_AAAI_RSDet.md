@@ -1,5 +1,5 @@
 ---
-title: Learning Modulated Loss for Rotated Object Detection
+title: 【RSDet】Learning Modulated Loss for Rotated Object Detection
 authors:
   - Wen Qian
   - Xue Yang

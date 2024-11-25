@@ -1,5 +1,5 @@
 ---
-title: SCRDet++ Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing
+title: 【SCRDet++】Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing
 authors:
   - Xue Yang
   - Junchi Yan#

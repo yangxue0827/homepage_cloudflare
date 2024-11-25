@@ -1,5 +1,5 @@
 ---
-title: The KFIoU Loss for Rotated Object Detection
+title: 【KFIoU】The KFIoU Loss for Rotated Object Detection
 authors:
   - Xue Yang
   - Yue Zhou

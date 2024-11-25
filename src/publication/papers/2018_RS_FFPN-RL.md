@@ -1,5 +1,5 @@
 ---
-title: A Ship Rotation Detection Model in Remote Sensing Images Based on Feature Fusion Pyramid Network and Deep Reinforcement Learning
+title: 【FFPN-RL】A Ship Rotation Detection Model in Remote Sensing Images Based on Feature Fusion Pyramid Network and Deep Reinforcement Learning
 authors:
   - Kun Fu
   - Yang Li#

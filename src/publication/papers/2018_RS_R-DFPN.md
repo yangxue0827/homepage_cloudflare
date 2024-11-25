@@ -1,5 +1,5 @@
 ---
-title: Automatic Ship Detection in Remote Sensing Images from Google Earth of Complex Scenes Based on Multiscale Rotation Dense Feature Pyramid Networks
+title: 【R-DFPN】Automatic Ship Detection in Remote Sensing Images from Google Earth of Complex Scenes Based on Multiscale Rotation Dense Feature Pyramid Networks
 authors:
   - Xue Yang
   - Hao Sun

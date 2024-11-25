@@ -1,5 +1,5 @@
 ---
-title: Mono-InternVL Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training
+title: 【Mono-InternVL】Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training
 authors:
   - Gen Luo*
   - Xue Yang*

@@ -1,5 +1,5 @@
 ---
-title: Arbitrary-Oriented Object Detection with Circular Smooth Label
+title: 【CSL】Arbitrary-Oriented Object Detection with Circular Smooth Label
 authors:
   - Xue Yang
   - Junchi Yan#

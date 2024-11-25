@@ -1,5 +1,5 @@
 ---
-title: Theoretically Achieving Continuous Representation of Oriented Bounding Boxes
+title: 【COBB】Theoretically Achieving Continuous Representation of Oriented Bounding Boxes
 authors:
   - Zikai Xiao
   - Guoye Yang

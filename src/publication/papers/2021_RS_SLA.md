@@ -1,5 +1,5 @@
 ---
-title: Sparse Label Assignment for Oriented Object Detection in Aerial Images
+title: 【SLA】Sparse Label Assignment for Oriented Object Detection in Aerial Images
 authors:
   - Qi Ming
   - Lingjuan Miao

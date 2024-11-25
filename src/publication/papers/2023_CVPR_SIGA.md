@@ -1,5 +1,5 @@
 ---
-title: Self-supervised Implicit Glyph Attention for Text Recognition
+title: 【SIGA】Self-supervised Implicit Glyph Attention for Text Recognition
 authors:
   - Tongkun Guan
   - Chaochen Gu#

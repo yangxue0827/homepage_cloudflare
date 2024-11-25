@@ -1,5 +1,5 @@
 ---
-title: FLoRA Low-Rank Core Space for N-dimension
+title: 【FLoRA】Low-Rank Core Space for N-dimension
 authors:
   - Chongjie Si*
   - Xuehui Wang*

@@ -1,5 +1,5 @@
 ---
-title: Dense Label Encoding for Boundary Discontinuity Free Rotation Detection
+title: 【DCL】Dense Label Encoding for Boundary Discontinuity Free Rotation Detection
 authors:
   - Xue Yang
   - Liping Hou

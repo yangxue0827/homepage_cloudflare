@@ -1,5 +1,5 @@
 ---
-title: PointOBB Learning Oriented Object Detection via Single Point Supervision
+title: 【PointOBB】Learning Oriented Object Detection via Single Point Supervision
 authors:
   - Junwei Luo
   - Xue Yang+

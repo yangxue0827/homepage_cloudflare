@@ -1,5 +1,5 @@
 ---
-title: P2RBox Point Prompt Oriented Object Detection with SAM
+title: 【P2RBox】Point Prompt Oriented Object Detection with SAM
 authors:
   - Guangming Cao*
   - Xuehui Yu*

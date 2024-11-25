@@ -1,5 +1,5 @@
 ---
-title: PVT-SAR An Arbitrarily Oriented SAR Ship Detector with Pyramid Vision Transformer
+title: 【PVT-SAR】An Arbitrarily Oriented SAR Ship Detector with Pyramid Vision Transformer
 authors:
   - Yue Zhou
   - Xue Jiang#

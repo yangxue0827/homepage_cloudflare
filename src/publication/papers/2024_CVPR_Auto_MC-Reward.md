@@ -1,5 +1,5 @@
 ---
-title: Auto MC-Reward Automated Dense Reward Design with Large Language Models for Minecraft
+title: 【Auto MC-Reward】Automated Dense Reward Design with Large Language Models for Minecraft
 authors:
   - Hao Li*
   - Xue Yang*

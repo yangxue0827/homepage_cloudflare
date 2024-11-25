@@ -1,5 +1,5 @@
 ---
-title: Exploiting Unlabeled Data with Multiple Expert Teachers for Open Vocabulary Aerial Object Detection and Its Orientation Adaptation
+title: 【CastDet】Exploiting Unlabeled Data with Multiple Expert Teachers for Open Vocabulary Aerial Object Detection and Its Orientation Adaptation
 authors:
   - Yan Li
   - Weiwei Guo#

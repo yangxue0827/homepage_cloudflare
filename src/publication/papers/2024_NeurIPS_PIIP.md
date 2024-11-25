@@ -1,5 +1,5 @@
 ---
-title: Parameter-Inverted Image Pyramid Networks
+title: 【PIIP】Parameter-Inverted Image Pyramid Networks
 authors:
   - Xizhou Zhu*
   - Xue Yang*

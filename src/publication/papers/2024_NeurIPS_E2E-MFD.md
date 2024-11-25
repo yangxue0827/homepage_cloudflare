@@ -1,5 +1,5 @@
 ---
-title: E2E-MFD Towards End-to-End Synchronous Multimodal Fusion Detection
+title: 【E2E-MFD】Towards End-to-End Synchronous Multimodal Fusion Detection
 authors:
   - Jiaqing Zhang
   - Mingxiang Cao
@@ -8,7 +8,7 @@ authors:
   - Daixun Li
   - Wenbo Huang
   - Yunsong Li
-  - Xue Yang†
+  - Xue Yang#
 journal_conference: Advances in Neural Information Processing Systems
 short_name: NeurIPS
 type: Conference

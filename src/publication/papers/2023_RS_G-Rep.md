@@ -1,5 +1,5 @@
 ---
-title: G-Rep Gaussian Representation for Arbitrary-Oriented Object Detection
+title: 【G-Rep】Gaussian Representation for Arbitrary-Oriented Object Detection
 authors:
   - Liping Hou
   - Ke Lu

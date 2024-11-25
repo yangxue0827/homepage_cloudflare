@@ -1,5 +1,5 @@
 ---
-title: H2RBox Horizontal Box Annotation is All You Need for Oriented Object Detection
+title: 【H2RBox】Horizontal Box Annotation is All You Need for Oriented Object Detection
 authors:
   - Xue Yang
   - Gefan Zhang

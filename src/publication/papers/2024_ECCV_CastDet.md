@@ -1,5 +1,5 @@
 ---
-title: Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning
+title: 【CastDet】Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning
 authors:
   - Yan Li
   - Weiwei Guo#

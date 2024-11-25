@@ -1,5 +1,5 @@
 ---
-title: Self-supervised Character-to-Character Distillation for Text Recognition
+title: 【CCD】Self-supervised Character-to-Character Distillation for Text Recognition
 authors:
   - Tongkun Guan
   - Wei Shen#

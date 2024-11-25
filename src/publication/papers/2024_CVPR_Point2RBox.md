@@ -1,5 +1,5 @@
 ---
-title: Point2RBox Combine Knowledge from Synthetic Visual Patterns for End-to-end Oriented Object Detection with Single Point Supervision
+title: 【Point2RBox】Combine Knowledge from Synthetic Visual Patterns for End-to-end Oriented Object Detection with Single Point Supervision
 authors:
   - Yi Yu*
   - Xue Yang*

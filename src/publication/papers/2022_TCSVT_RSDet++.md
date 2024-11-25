@@ -1,5 +1,5 @@
 ---
-title: RSDet++ Point-based Modulated Loss for More Accurate Rotated Object Detection
+title: 【RSDet++】Point-based Modulated Loss for More Accurate Rotated Object Detection
 authors:
   - Wen Qian
   - Xue Yang

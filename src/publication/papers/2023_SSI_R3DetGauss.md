@@ -1,5 +1,5 @@
 ---
-title: Visual Oriented Object Detection via Feature Alignment and Gaussian Parameterization
+title: 【R3DetGauss】Visual Oriented Object Detection via Feature Alignment and Gaussian Parameterization
 authors:
   - Xue Yang
   - Junchi Yan#

@@ -1,5 +1,5 @@
 ---
-title: ARS-DETR Aspect Ratio-Sensitive Detection Transformer for Aerial Oriented Object Detection
+title: 【ARS-DETR】Aspect Ratio-Sensitive Detection Transformer for Aerial Oriented Object Detection
 authors:
   - Ying Zeng
   - Yushi Chen#

@@ -1,5 +1,5 @@
 ---
-title: Optimization for Arbitrary-Oriented Object Detection via Representation Invariance Loss
+title: 【RIDet】Optimization for Arbitrary-Oriented Object Detection via Representation Invariance Loss
 authors:
   - Qi Ming
   - Lingjuan Miao

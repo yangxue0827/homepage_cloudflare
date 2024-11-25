@@ -1,5 +1,5 @@
 ---
-title: Rethinking Rotated Object Detection with Gaussian Wasserstein Distance Loss
+title: 【GWD】Rethinking Rotated Object Detection with Gaussian Wasserstein Distance Loss
 authors:
   - Xue Yang
   - Junchi Yan#

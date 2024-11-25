@@ -1,5 +1,5 @@
 ---
-title: Learning High-Precision Bounding Box for Rotated Object Detection via Kullback-Leibler Divergence
+title: 【KLD】Learning High-Precision Bounding Box for Rotated Object Detection via Kullback-Leibler Divergence
 authors:
   - Xue Yang
   - Xiaojiang Yang

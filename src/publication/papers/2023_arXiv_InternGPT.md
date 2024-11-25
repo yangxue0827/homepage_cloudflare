@@ -1,5 +1,5 @@
 ---
-title: InternGPT Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language
+title: 【InternGPT】Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language
 authors:
   - Zhaoyang Liu*
   - Yinan He*

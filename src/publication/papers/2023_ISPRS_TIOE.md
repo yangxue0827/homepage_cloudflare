@@ -1,5 +1,5 @@
 ---
-title: Task Interleaving and Orientation Estimation for High-Precision Oriented Object Detection in Aerial Images
+title: 【TIOE】Task Interleaving and Orientation Estimation for High-Precision Oriented Object Detection in Aerial Images
 authors:
   - Qi Ming
   - Lingjuan Miao

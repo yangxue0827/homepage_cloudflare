@@ -1,5 +1,5 @@
 ---
-title: SCRDet Towards More Robust Detection for Small, Cluttered and Rotated Objects
+title: 【SCRDet】Towards More Robust Detection for Small, Cluttered and Rotated Objects
 authors:
   - Xue Yang
   - Jirui Yang

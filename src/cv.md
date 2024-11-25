@@ -16,7 +16,7 @@ layout: cv
 - **2023.07-Present**. Researcher, **OpenGVLab, Shanghai AI Laboratory**, collaborated with [Prof. Jifeng Dai](https://scholar.google.com.hk/citations?user=SH_-B_AAAAAJ) and [Dr. Xizhou Zhu](https://scholar.google.com/citations?hl=zh-CN&user=02RXI00AAAAJ)
 
 ### Awards
-- 图像图形学会视觉大数据专委会(CSIG-BVD)<a href="https://mp.weixin.qq.com/s/fhfizq577_-zPu8cGIAOxw" target="_blank">“服务贡献奖”</a>, 2024
+- 中国图象图形学学会视觉大数据专委会(CSIG-BVD)<a href="https://mp.weixin.qq.com/s/fhfizq577_-zPu8cGIAOxw" target="_blank">“服务贡献奖”</a>, 2024
 - <a href="https://www.gs.sjtu.edu.cn/yxbslw">SJTU Outstanding Doctoral Dissertation</a>, only fifteen winners in SJTU, 2023
 - <a href="https://mp.weixin.qq.com/s/Hk8iKReAUJVB_CraXqWYKg" target="_blank">CCF Outstanding Doctoral Dissertation Award</a>, only nine winners in China, 2023
 - <a href="https://topresearcherslist.com/Home/Profile/823455">World's Top 2% Scientists List</a>, 2023-2024

@@ -1,5 +1,5 @@
 ---
-title: PatchDCT Patch Refinement for High Quality Instance Segmentation
+title: 【PatchDCT】Patch Refinement for High Quality Instance Segmentation
 authors:
   - Qinrou Wen
   - Jirui Yang

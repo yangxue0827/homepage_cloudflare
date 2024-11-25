@@ -1,5 +1,5 @@
 ---
-title: Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors
+title: 【FreeReal】Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors
 authors:
   - Tongkun Guan
   - Wei Shen#

@@ -1,5 +1,5 @@
 ---
-title: H2RBox-v2 Incorporating Symmetry for Boosting Horizontal Box Supervised Oriented Object Detection
+title: 【H2RBox-v2】Incorporating Symmetry for Boosting Horizontal Box Supervised Oriented Object Detection
 authors:
   - Yi Yu*
   - Xue Yang*
