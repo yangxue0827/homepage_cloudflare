@@ -1,5 +1,5 @@
 ---
-title: 【DHD】Drones Help Drones A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond
+title: 【Drones Help Drones】A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond
 authors:
   - Zhechao Wang
   - Peirui Cheng
