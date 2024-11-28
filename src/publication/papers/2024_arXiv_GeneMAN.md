@@ -8,7 +8,7 @@ authors:
   - Jianfu Zhang
   - Yizhou Wang
   - Ziwei Liu
-  - Liang Pan1#
+  - Liang Pan#
 journal_conference: arXiv
 short_name: arXiv
 type: Preprint
