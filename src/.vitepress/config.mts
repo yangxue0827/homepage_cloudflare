@@ -37,7 +37,7 @@ export default defineConfig({
   cleanUrls: true,
 
   title: "SJTU",
-  description: "The personal homepage of Prof.Shen",
+  description: "The personal homepage of Prof. Yang",
 
   head: [
     [
