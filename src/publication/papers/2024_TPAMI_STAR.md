@@ -2,9 +2,9 @@
 title: 【STAR】A First-Ever Dataset and A Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery
 authors:
   - Yansheng Li
-  - Linlin Wang
-  - Tingzhu Wang
-  - Xue Yang
+  - Linlin Wang#
+  - Tingzhu Wang#
+  - Xue Yang#
   - Junwei Luo
   - Qi Wang
   - Youming Deng
@@ -37,6 +37,7 @@ tags:
   - Detection
   - Dataset
   - Journal
+  - First/Correspondence
 image: images/papers/2024_TPAMI_STAR.gif
 ggid: 2xTlvV0AAAAJ:u_35RYKgDlwC
 ---
