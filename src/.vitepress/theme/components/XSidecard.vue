@@ -21,8 +21,8 @@ onMounted(() => {
 </script>
 
 <template>
-    <div class="site-name text-center text-5xl font-bold text-amber-800">
-        YXLab
+    <div class="site-name text-center text-3xl font-bold text-amber-800">
+        InteliVision Lab
     </div>
     <div class="site-name text-center text-2xl font-bold text-amber-800">
         @RethinkLab

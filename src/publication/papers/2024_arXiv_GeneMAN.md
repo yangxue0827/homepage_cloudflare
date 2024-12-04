@@ -26,4 +26,5 @@ tags:
   - AIGC
   - Preprint
 image: images/papers/2024_arXiv_GeneMAN.png
+ggid: 2xTlvV0AAAAJ:b0M2c_1WBrUC
 ---
