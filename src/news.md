@@ -3,7 +3,7 @@ home: true
 layout: news
 
 News:
-    - text: Two paper on related to PEFT (FLoRA) for OBB (PointPBB-v2) is accepted by ICLR 2025
+    - text: Two paper on related to PEFT (FLoRA) and OBB (PointPBB-v2) is accepted by ICLR 2025
       date: 2025-01
       top: false
       links: 
