@@ -23,7 +23,7 @@ News:
       links:
         - text:
           link:
-    - text: I'm selected into <a herf='https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7'> the World's Top 2% Scientists 2024 List </a>
+    - text: I'm selected into <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7"> the World's Top 2% Scientists 2024 List</a>
       date: 2024-09
 ---
 <script setup>

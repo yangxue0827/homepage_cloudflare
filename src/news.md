@@ -3,7 +3,7 @@ home: true
 layout: news
 
 News:
-    - text: Two reports are made at the CNCC 2024 Hengdian
+    - text: Two reports are <a href="https://ccf.org.cn/cncc2024/schedule_d_4240">made</a> at the CNCC 2024 Hengdian
       date: 2024-10
       top: false
       links: 
@@ -15,6 +15,7 @@ News:
           link: https://ccf.org.cn/cncc2024/schedule_d_4128
     - text: 荣获中国图象图形学学会视觉大数据专委会(CSIG-BVD)颁发的“服务贡献奖”
       date: 2024-10
+      top: false
       links:
         - text: “服务贡献奖”
           link: https://mp.weixin.qq.com/s/fhfizq577_-zPu8cGIAOxw
