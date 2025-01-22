@@ -1,5 +1,5 @@
 ---
-title: 【LMMRotate】Simple Aerial Detection Baseline of Multimodal Language Models
+title: 【LMMRotate】A Simple Aerial Detection Baseline of Multimodal Language Models
 authors:
   - Qingyun Li
   - Yushi Chen#
