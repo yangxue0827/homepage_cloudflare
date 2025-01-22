@@ -165,8 +165,7 @@ const props = defineProps<{
             {{ text }}
             </span>
         </a>
-    </section> 
-
+    </section>
 
     <section v-else-if="icon === 'email'" class="flex justify-center items-center">
         <a

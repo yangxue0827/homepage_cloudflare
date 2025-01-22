@@ -25,6 +25,7 @@ const APThemeConfig = getThemeConfig({
       {text: 'Email', link: 'mailto:yangxue-2019-sjtu@sjtu.edu.cn', icon: 'email'},
       {text: 'GitHub', link: 'https://github.com/yangxue0827', icon: 'github'},
       {text: 'Google Scholar', link: 'https://scholar.google.com/citations?user=2xTlvV0AAAAJ&hl=en', icon: 'googlescholar'},
+      {text: 'Zhihu', link: 'https://www.zhihu.com/people/yangxue0827', icon: 'zhihu'},
     ]
   },
 })

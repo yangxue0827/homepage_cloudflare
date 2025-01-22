@@ -3,18 +3,41 @@ home: true
 layout: index
 
 News:
+    - text: I was selected into the 10th Young Talent Support Project funded by CAST
+      date: 2024-12
+      top: false
+      links: 
+        - text: 第十届中国科协青年人才托举工程项目
+          link: https://mp.weixin.qq.com/s/sBczTcu0WN4nYpouOm5RMQ
+    - text: One paper on related to VLM for RS (DiffClip) is accepted by AAAI 2025
+      date: 2024-12
+      top: false
+      links: 
+        - text: 
+          link:
+    - text: One paper on related to Multi-UAV (UCDNet) is accepted by TGRS
+      date: 2024-12
+      top: false
+      links: 
+        - text: 
+          link:  
+    - text: One paper on related to SGG and OBB (STAR) is accepted by TPAMI
+      date: 2024-11
+      top: false
+      links: 
+        - text: 
+          link:
     - text: Two reports are made at the CNCC 2024 Hengdian
       date: 2024-10
       top: false
       links: 
-        - text: CNCC 2024 Hengdian
-          link: https://ccf.org.cn/cncc2024/schedule_d_4240
         - text: CCF优博的培养与成长
           link: https://ccf.org.cn/cncc2024/schedule_d_4240
         - text: 端启未来：端到端自动驾驶技术新趋势
           link: https://ccf.org.cn/cncc2024/schedule_d_4128
     - text: 荣获中国图象图形学学会视觉大数据专委会(CSIG-BVD)颁发的“服务贡献奖”
       date: 2024-10
+      top: false
       links:
         - text: “服务贡献奖”
           link: https://mp.weixin.qq.com/s/fhfizq577_-zPu8cGIAOxw
@@ -23,8 +46,24 @@ News:
       links:
         - text:
           link:
-    - text: I'm selected into <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7"> the World's Top 2% Scientists 2024 List</a>
+    - text: I'm selected into the World's Top 2% Scientists 2024 List
       date: 2024-09
+      top: false
+      links: 
+        - text: World's Top 2% Scientists 2024 List
+          link: https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7
+    - text: I will serve as Area Chair for ICLR 2025
+      date: 2024-08
+      top: false
+      links: 
+        - text: 
+          link: 
+    - text: Two papers on scene text detection (FreeReal) and open vocabulary detection (CastDet) are accepted by ECCV 2024
+      date: 2024-07
+      top: false
+      links: 
+        - text: 
+          link: 
 ---
 <script setup>
     import NewsCard from '@/theme/News.vue'
