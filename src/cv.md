@@ -12,10 +12,11 @@ layout: cv
 - **2012.09-2016.06**. B.S. in School of Information Science and Engineering, **Central South University**, Hunan, China.
 
 ### Work experience
-- **2025.02 (Excepted)**. Assistant Professor, [ReThinkLab](http://thinklab.sjtu.edu.cn/), **Shanghai Jiao Tong University**
+- **2025.03 (Excepted)**. Assistant Professor, [ReThinkLab](http://thinklab.sjtu.edu.cn/), **Shanghai Jiao Tong University**
 - **2023.07-Present**. Researcher, **OpenGVLab, Shanghai AI Laboratory**, collaborated with [Prof. Jifeng Dai](https://scholar.google.com.hk/citations?user=SH_-B_AAAAAJ) and [Dr. Xizhou Zhu](https://scholar.google.com/citations?hl=zh-CN&user=02RXI00AAAAJ)
 
 ### Awards
+- [The 10th Young Talent Support Project funded by CAST](https://mp.weixin.qq.com/s/sBczTcu0WN4nYpouOm5RMQ), 2024
 - 中国图象图形学学会视觉大数据专委会(CSIG-BVD)<a href="https://mp.weixin.qq.com/s/fhfizq577_-zPu8cGIAOxw" target="_blank">“服务贡献奖”</a>, 2024
 - <a href="https://www.gs.sjtu.edu.cn/yxbslw">SJTU Outstanding Doctoral Dissertation</a>, only fifteen winners in SJTU, 2023
 - <a href="https://mp.weixin.qq.com/s/Hk8iKReAUJVB_CraXqWYKg" target="_blank">CCF Outstanding Doctoral Dissertation Award</a>, only nine winners in China, 2023
@@ -54,7 +55,7 @@ layout: cv
     - European Conference on Computer Vision (ECCV), 2022/2024
     - Asian Conference on Computer Vision (ACCV), 2024
     - Neural Information Processing Systems (NeurIPS), 2022-2024
-    - International Conference on Machine Learning (ICML), 2022-2024
+    - International Conference on Machine Learning (ICML), 2022-2025
     - International Conference on Learning Representations (ICLR), 2024
     - AAAI Conference on Artificial Intelligence (AAAI), 2022-2025
     - ACM International Conference on Multimedia (ACM MM), 2021-2024

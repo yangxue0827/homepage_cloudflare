@@ -10,11 +10,11 @@ authors:
   - Yu Qiao
   - Xiaokang Yang
   - Wei Shen#
-journal_conference: arXiv
-short_name: arXiv
-type: Preprint
-year: 2024
-additional_info: 2405.14739
+journal_conference: International Conference on Learning Representations
+short_name: ICLR
+type: Conference
+year: 2025
+additional_info: Singapore
 attachments:
   - text: PDF
     link: https://arxiv.org/abs/2405.14739
@@ -22,7 +22,7 @@ attachments:
     link: https://github.com/SJTU-DeepVisionLab/FLoRA
   - text: Zhihu
     link: https://zhuanlan.zhihu.com/p/705909337
-date: 2024-05-23
+date: 2025-01-22
 award: Poster
 tags:
   - Detection
@@ -30,6 +30,6 @@ tags:
   - PEFT
   - Segmentation
   - Preprint
-image: images/papers/2024_arXiv_FLoRA.png
+image: images/papers/2025_ICLR_FLoRA.png
 ggid: 2xTlvV0AAAAJ:ZHo1McVdvXMC
 ---

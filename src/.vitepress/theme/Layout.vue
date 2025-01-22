@@ -55,7 +55,7 @@ const tabs = {
     <div class="Layout">
       <n-layout has-sider class=" h-screen w-screen min-h-full">
         <!-- Sider -->
-        <n-layout-sider bordered width="300" content-style="padding: 24px;">
+        <n-layout-sider bordered width="300" content-style="padding: 24px;" class="">
           <XSidecard />
         </n-layout-sider>
 
@@ -69,7 +69,7 @@ const tabs = {
           <n-layout-content content-style="padding: 0px; padding-left: 0px">
             <div class="container container-index" v-if="frontmatter.layout === 'index'">
               <div class="bg-white">
-                <div class="mx-4 max-w-5xl pb-6 lg:px-8">
+                <div class="mx-4 max-w-6xl pb-6 lg:px-0 lg:max-w-[1600px]">
                   <div class="index-content-news text-base">
                       <Content />
                   </div>
@@ -78,7 +78,7 @@ const tabs = {
             </div>
             <div v-else class="container container-other">
               <div class="bg-white">
-                <div class="mx-4 max-w-5xl pb-6 lg:px-8">
+                <div class="mx-4 max-w-6xl pb-6 lg:px-8 lg:max-w-[1600px]">
                   <div class="text-base">
                     <component :is="tabs[frontmatter.layout]" :class="frontmatter.layout"></component>
                   </div>

@@ -5,7 +5,7 @@ authors:
   - Mingxiang Cao
   - Xue Yang
   - Kai Jiang
-  - Yunsong Li
+  - Yunsong Li#
 journal_conference: Thirty-Nine AAAI Conference on Artificial Intelligence
 short_name: AAAI
 type: Conference
@@ -24,4 +24,5 @@ tags:
   - VLM & MLLM & LLM
   - Conference
 image: images/papers/2024_AAAI_DiffCLIP.png
+ggid: 2xTlvV0AAAAJ:abG-DnoFyZgC
 ---

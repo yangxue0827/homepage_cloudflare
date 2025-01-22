@@ -3,11 +3,17 @@ home: true
 layout: news
 
 News:
+    - text: Two paper on related to PEFT (FLoRA) for OBB (PointPBB-v2) is accepted by ICLR 2025
+      date: 2025-01
+      top: false
+      links: 
+        - text: 
+          link:
     - text: I was selected into the 10th Young Talent Support Project funded by CAST
       date: 2024-12
       top: false
       links: 
-        - text: 第十届中国科协青年人才托举工程项目
+        - text: 第十届中国科协青年人才托举工程
           link: https://mp.weixin.qq.com/s/sBczTcu0WN4nYpouOm5RMQ
     - text: One paper on related to VLM for RS (DiffClip) is accepted by AAAI 2025
       date: 2024-12

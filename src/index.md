@@ -3,11 +3,17 @@ home: true
 layout: index
 
 News:
+    - text: Two paper on related to PEFT (FLoRA) for OBB (PointPBB-v2) is accepted by ICLR 2025
+      date: 2025-01
+      top: false
+      links: 
+        - text: 
+          link:
     - text: I was selected into the 10th Young Talent Support Project funded by CAST
       date: 2024-12
       top: false
       links: 
-        - text: 第十届中国科协青年人才托举工程项目
+        - text: 第十届中国科协青年人才托举工程
           link: https://mp.weixin.qq.com/s/sBczTcu0WN4nYpouOm5RMQ
     - text: One paper on related to VLM for RS (DiffClip) is accepted by AAAI 2025
       date: 2024-12
@@ -58,12 +64,6 @@ News:
       links: 
         - text: 
           link: 
-    - text: Two papers on scene text detection (FreeReal) and open vocabulary detection (CastDet) are accepted by ECCV 2024
-      date: 2024-07
-      top: false
-      links: 
-        - text: 
-          link: 
 ---
 <script setup>
     import NewsCard from '@/theme/News.vue'
@@ -73,9 +73,12 @@ News:
 
 # Xue Yang
 
-### Assistant Professor
+### Researcher
+### OpenGVLab, Shanghai AI Laboratory
+### International Media Port L1, Xuhui District, Shanghai, China
+<!-- ### Assistant Professor
 ### Department of Automation, Shanghai Jiao Tong University
-### 800 Dongchuan Road, Shanghai, 200240, China
+### 800 Dongchuan Road, Shanghai, 200240, China -->
 
 ---
 
@@ -94,7 +97,7 @@ My research interests include Deep Learning and **Computer Vision**, with a focu
 
 Xue Yang has published about 50 papers<a href="https://scholar.google.com/citations?user=2xTlvV0AAAAJ&hl=en"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&amp;url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fyangxue0827%2Fyangxue0827.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations" /></a>at the top-tier international CV/ML/AI conferences and journals, such as TPAMI, IJCV, CVPR, ECCV, ICCV, ICML, NeurIPS, ICLR, AAAI and ACM MM. He is also the leading contributor to the [MMRotate](https://github.com/open-mmlab/mmrotate)<img src="https://img.shields.io/github/stars/open-mmlab/mmrotate?style=social" />, [AlphaRotate](https://github.com/yangxue0827/RotationDetection)<img src="https://img.shields.io/github/stars/yangxue0827/RotationDetection?style=social" /> and [JDet](https://github.com/Jittor/JDet)<img src="https://img.shields.io/github/stars/Jittor/JDet?style=social" /> open-source projects for oriented object detection, and with 8000+ stars in Github. 
 
-Xue Yang won [SJTU Outstanding Doctoral Dissertation](https://www.gs.sjtu.edu.cn/yxbslw) (2023), [CCF Outstanding Doctoral Dissertation Award](https://www.ccf.org.cn/Membership/Individual_member/Honor/yxbsxwlwjljh/2024-01-05/811519.shtml) (2023), [CCF-CV Academic Emerging Scholar](https://mp.weixin.qq.com/s/mUgpVmyvCHdo5-T6-u8Yxg) (2022), [Shanghai Outstanding Graduates](https://www.seiee.sjtu.edu.cn/xsgz_tzgg_zyfz/7915.html) (2023), [Doctoral National Scholarship](https://mp.weixin.qq.com/s/liVosHsotD2zDMyfmTIQJg) (2021/2022), [SJTU Scholar Star Nomination Award](https://mp.weixin.qq.com/s/hr7qtx3OUffSGS9qUhqc9w) (2021), and also selected into the [World's Top 2% Scientists List](https://topresearcherslist.com/Home/Profile/823455) (2023-2024).
+Xue Yang won [SJTU Outstanding Doctoral Dissertation](https://www.gs.sjtu.edu.cn/yxbslw) (2023), [CCF Outstanding Doctoral Dissertation Award](https://www.ccf.org.cn/Membership/Individual_member/Honor/yxbsxwlwjljh/2024-01-05/811519.shtml) (2023), [CCF-CV Academic Emerging Scholar](https://mp.weixin.qq.com/s/mUgpVmyvCHdo5-T6-u8Yxg) (2022), [Shanghai Outstanding Graduates](https://www.seiee.sjtu.edu.cn/xsgz_tzgg_zyfz/7915.html) (2023), [Doctoral National Scholarship](https://mp.weixin.qq.com/s/liVosHsotD2zDMyfmTIQJg) (2021/2022), [SJTU Scholar Star Nomination Award](https://mp.weixin.qq.com/s/hr7qtx3OUffSGS9qUhqc9w) (2021), and also selected into the [10th Young Talent Support Project funded by CAST](https://mp.weixin.qq.com/s/sBczTcu0WN4nYpouOm5RMQ) (2024), and the [World's Top 2% Scientists List](https://topresearcherslist.com/Home/Profile/823455) (2023-2024).
 
 
 

@@ -17,9 +17,12 @@ const APThemeConfig = getThemeConfig({
     text: 'Xue Yang (杨学)',
     avatar: '/assets/yangxue.jpg',
     tags: [
-      'Assistant Professor',
-      'PhD Supervisor',
-      'Shanghai Jiao Tong University',
+      // 'Assistant Professor',
+      // 'PhD Supervisor',
+      // 'Shanghai Jiao Tong University',
+      'Researcher',
+      'OpenGVLab',
+      'Shanghai AI Laboratory​',
     ],
     linkGroup: [
       {text: 'Email', link: 'mailto:yangxue-2019-sjtu@sjtu.edu.cn', icon: 'email'},
