@@ -16,6 +16,8 @@ attachments:
     link: https://arxiv.org/abs/2410.08210
   - text: Code
     link: https://github.com/taugeren/PointOBB-v2
+  - text: Zhihu
+    link: https://zhuanlan.zhihu.com/p/20061098315
 date: 2025-01-22
 award: Poster
 tags:
