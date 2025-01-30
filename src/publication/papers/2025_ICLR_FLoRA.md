@@ -29,7 +29,7 @@ tags:
   - OBB
   - PEFT
   - Segmentation
-  - Preprint
+  - Conference
 image: images/papers/2025_ICLR_FLoRA.png
 ggid: 2xTlvV0AAAAJ:ZHo1McVdvXMC
 ---

@@ -31,6 +31,7 @@ tags:
   - RS
   - Dataset
   - Preprint
+  - First/Correspondence
 image: images/papers/2025_arXiv_PointOBB-v3.png
 ggid: 2xTlvV0AAAAJ:nb7KW1ujOQ8C
 ---

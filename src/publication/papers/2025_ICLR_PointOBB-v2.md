@@ -23,7 +23,7 @@ tags:
   - OBB
   - Weakly-supervised
   - RS
-  - Preprint
+  - Conference
   - First/Correspondence
 image: images/papers/2025_ICLR_PointOBB-v2.png
 ggid: 2xTlvV0AAAAJ:f2IySw72cVMC
